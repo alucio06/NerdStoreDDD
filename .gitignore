@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/src/NerdStore.Catalogo.Domain/obj
+/src/NerdStore.Core/obj
