@@ -5,3 +5,8 @@
 /.vs
 /src/NerdStore.Catalogo.Domain/obj
 /src/NerdStore.Core/obj
+/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/net6.0
+/tests/NerdStore.Catalogo.Domain.Tests/obj
+/src/NerdStore.Catalogo.Data/bin/Debug/net6.0
+/src/NerdStore.Catalogo.Data/obj
+/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0
