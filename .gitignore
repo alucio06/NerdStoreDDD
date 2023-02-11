@@ -10,3 +10,5 @@
 /src/NerdStore.Catalogo.Data/bin/Debug/net6.0
 /src/NerdStore.Catalogo.Data/obj
 /src/NerdStore.Catalogo.Domain/bin/Debug/net6.0
+/src/NerdStore.WebApp.MVC/obj
+/src/NerdStore.Catalogo.Application/obj
