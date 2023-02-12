@@ -12,3 +12,5 @@
 /src/NerdStore.Catalogo.Domain/bin/Debug/net6.0
 /src/NerdStore.WebApp.MVC/obj
 /src/NerdStore.Catalogo.Application/obj
+/src/NerdStore.Catalogo.Application/bin/Debug/net6.0
+/src/NerdStore.WebApp.MVC/bin/Debug/net6.0
