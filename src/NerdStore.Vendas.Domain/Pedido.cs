@@ -1,5 +1,6 @@
-﻿using NerdStore.Core.DomainObjects;
-using System.ComponentModel.DataAnnotations;
+﻿using FluentValidation.Results;
+using NerdStore.Core.DomainObjects;
+
 
 namespace NerdStore.Vendas.Domain
 {

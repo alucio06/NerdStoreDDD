@@ -17,3 +17,6 @@
 /src/NerdStore.Vendas.Application/obj
 /src/NerdStore.Vendas.Data/obj
 /src/NerdStore.Vendas.Domain/obj
+/src/NerdStore.Vendas.Application/bin/Debug/net6.0
+/src/NerdStore.Vendas.Data/bin/Debug/net6.0
+/src/NerdStore.Vendas.Domain/bin/Debug/net6.0
