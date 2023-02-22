@@ -20,3 +20,6 @@
 /src/NerdStore.Vendas.Application/bin/Debug/net6.0
 /src/NerdStore.Vendas.Data/bin/Debug/net6.0
 /src/NerdStore.Vendas.Domain/bin/Debug/net6.0
+/src/NerdStore.Pagamentos.AntiCorruption/obj
+/src/NerdStore.Pagamentos.Business/obj
+/src/NerdStore.Pagamentos.Data/obj
